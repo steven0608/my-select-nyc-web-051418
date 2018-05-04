@@ -1,5 +1,4 @@
 
-collection=[1, 2, 3, 4, 5]
 def my_select(collection)
  # your code here!
 i=0
@@ -13,4 +12,4 @@ end
 even
 end
 
-my_select(collection) { |x| x.even?}
+#block my_select(collection) { |x| x.even?}

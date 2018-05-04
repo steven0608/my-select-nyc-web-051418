@@ -6,6 +6,7 @@ while i <collection.length
   if yield(collection[i].even?)
     even << collection[i]
   end
-  even
+  i+=1
 end
+even
 end

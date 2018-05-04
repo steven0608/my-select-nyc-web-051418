@@ -12,3 +12,5 @@ while i <collection.length
 end
 even
 end
+
+my_select(collection) { |x| x.even?}

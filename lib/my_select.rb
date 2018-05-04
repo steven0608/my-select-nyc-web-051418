@@ -12,5 +12,4 @@ end
 even
 end
 
-#block
- my_select(collection) { |x| x.even?}
+#block my_select(collection) { |x| x.even?}
